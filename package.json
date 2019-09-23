@@ -1,0 +1,22 @@
+{
+  "name": "request-package",
+  "version": "1.0.0",
+  "description": "require module package",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/featherweightdev/nodeShellPairProgramming.git"
+  },
+  "author": "David and Emma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/featherweightdev/nodeShellPairProgramming/issues"
+  },
+  "homepage": "https://github.com/featherweightdev/nodeShellPairProgramming#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
